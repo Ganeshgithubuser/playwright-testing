@@ -3,6 +3,7 @@ Install latest nodejs in your machine so that you can javascript files
 Install vscode
 
 Steps to run the testcases :
+
 Open the project in vscode
 Do "npm install" by opening new terminal
 To install playwright browsers do "npx playwright install" in terminal
