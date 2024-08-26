@@ -1,0 +1,113 @@
+{
+    "Questions": [
+        {
+            "question": "What is your loved one’s current situation?",
+            "options": [
+                "Soon to be discharged from hospital",
+                "Living at home",
+                "Recently discharged from hospital (within 2 weeks)",
+                "In nursing home"
+            ]
+        },
+        {
+            "question": "Which one of the following best describes your loved one’s physical condition at home?",
+            "options": [
+                "Moving around with or without assistance",
+                "Bedbound",
+                "Wheelchair bound",
+                "May or may not require help and/or supervision to move around such as walking aids",
+                "Always on the bed and requires help in all activities of daily living",
+                "Requires help with moving about in wheelchair even at home"
+            ]
+        },
+        {
+            "question": "Which of the following best describes your loved one’s medical condition?",
+            "options": [
+                "Physically weaker in the past 6 months (e.g. due to fall, amputation, or reduced strength)",
+                "Recent hip fracture",
+                "Recent stroke",
+                "Dementia (diagnosed by a doctor)",
+                "Mental health symptoms or conditions (diagnosed by doctor to have depression, anxiety, psychosis, etc.)",
+                "Requires nursing care (e.g. wound care, feeding tube, urinary catheter)",
+                "Last stage of life (Diagnosed by doctor with prognosis of less than 1 year)",
+                "Other medical condition(s)"
+            ]
+        },
+        {
+            "question": "Which of the following caregiving support will help you in caring for your loved one?",
+            "options": [
+                "Caregiver training",
+                "Help/advice from caregiver support groups",
+                "Community services (e.g. Day Care, Home Care, etc.)",
+                "I’m not sure and would like to speak to someone",
+                "None of the above"
+            ]
+        },
+        {
+            "question": "What support services do your loved one need at home?",
+            "options": [
+                "Meal delivery (e.g. delivering food to your loved one at home)",
+                "Showering",
+                "Light housekeeping (e.g. sweeping floor and laundry)",
+                "Eldersitting (e.g. someone to take care of my loved one when I’m unavailable)",
+                "None of the above",
+                "Going to medical appointments"
+            ]
+        },
+        {
+            "question": "Which of the following future plans (i.e. financial, legal and health plans) have you made for your loved one?",
+            "options": [
+                "Will",
+                "Advance Care Planning (ACP)",
+                "Lasting Power of Attorney (LPA) or Deputyship",
+                "None of the above"
+            ]
+        },
+        {
+            "question": "What is your loved one’s citizenship status?",
+            "options": [
+                "Singapore Citizen",
+                "Permanent Resident (PR) with Singaporean immediate family members",
+                "Permanent Resident (PR)"
+            ]
+        },
+        {
+            "question": "Is your loved one a Pioneer Generation card holder?",
+            "options": [
+                "Yes",
+                "No"
+            ]
+        },
+        {
+            "question": "Which policies are your loved one covered under?",
+            "options": [
+                "CareShield Life",
+                "ElderShield",
+                "I am not sure",
+                "None of the above"
+            ]
+        },
+        {
+            "question": "Does your loved one have any balance in their MediSave account?",
+            "options": [
+                "Yes",
+                "No",
+                "I am not sure"
+            ]
+        },
+        {
+            "question": "Do your loved one and any household members staying with your loved one have income?",
+            "options": [
+                "Yes",
+                "No"
+            ]
+        },
+        {
+            "question": "What is the estimated annual value of the property based on your loved one’s NRIC address?",
+            "options": [
+                "$21,000 and below (Most HDBs)",
+                "Above $21,000"
+            ]
+        }
+    ]
+}
